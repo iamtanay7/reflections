@@ -26,7 +26,11 @@ How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+	
+	Merging of the 2 branches helps to incorporate the changes of the side branch into the master branch.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+	
+	xyz.
 
