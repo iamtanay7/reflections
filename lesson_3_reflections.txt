@@ -18,7 +18,8 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    We can use it to check what differences we have made since we last fetched 
+    the origin.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
